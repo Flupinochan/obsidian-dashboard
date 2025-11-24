@@ -1,0 +1,11 @@
+{
+  "id": "obsidian-dashboard",
+  "name": "obsidian-dashboard",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "obsidian-dashboard",
+  "author": "MetalMental",
+  "authorUrl": "https://github.com/Flupinochan/obsidian-dashboard",
+  "fundingUrl": "https://github.com/Flupinochan/obsidian-dashboard",
+  "isDesktopOnly": false
+}
